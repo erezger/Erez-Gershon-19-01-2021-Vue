@@ -1,7 +1,7 @@
 # Erez-Gershon-19-01-2021-fullStack
 
 ```
-Weather Webapp
+Video list Webapp
 ```
 
 ## Project setup
